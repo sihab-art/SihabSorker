@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="flex items-center justify-center mb-6">
           <a
             className="inline-block mx-2"
-            href="https://twitter.com/GilbertHutapeaa"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://linkedin.com/in/gilberthutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +29,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.github.com/berthutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,7 +37,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.instagram.com/bethup97/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/berthutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.upwork.com/freelancers/~0171c0d54d5dea86ec"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="http://freelancer.com/u/berthutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -79,7 +79,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://remotehub.com/gilbert.hutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -87,7 +87,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://dribbble.com/berthutapea"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
