@@ -42,11 +42,21 @@ const Education = () => {
         <div className="mx-auto lg:ml-auto">
           {/* Diploma */}
           <div className="p-6 bg-[#313131]/10 rounded-lg space-y-2 my-6">
+            <h2 className="font-semibold">Secondery</h2>
+            <div className="text-sm text-gray-600">
+              <p>Khoragach M/L High School</p>
+              <p>Science</p>
+              <p>2016-2022</p>
+            </div>
+          </div>
+
+          {/* Diploma */}
+          <div className="p-6 bg-[#313131]/10 rounded-lg space-y-2 my-6">
             <h2 className="font-semibold">Diploma</h2>
             <div className="text-sm text-gray-600">
-              <p>Politeknik LP3I Karawang</p>
-              <p>Computer Network Engineering</p>
-              <p>2017-2020</p>
+              <p>Shariatpur Polytechnic Institute</p>
+              <p>Computer Science Technologys</p>
+              <p>2022-Now</p>
             </div>
           </div>
         </div>
