@@ -39,7 +39,7 @@ const About = () => {
               src="https://i.postimg.cc/90jS8w2n/IMG-20250226-154759-563-Photoroom-1.png"
               alt="Sihab"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
-              title="Gilbert Hutapea"
+              title="Sihab Sorker"
             />
 
           </motion.div>
@@ -60,9 +60,9 @@ const About = () => {
                 sequence={[
                   "A Mern-stack Developer",
                   2000,
-                  "A Full-stack Developer",
+                  "A Ethical Hacker",
                   2000,
-                  "A Front-end Developer",
+                  "A Crypto Trader",
                   2000
                 ]}
                 wrapper="div"
@@ -97,10 +97,10 @@ const About = () => {
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                berthutapea@gmail.com
+                sihabsorker0@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, Indonesia
+                <span className="mr-2 text-primary">Address : </span>Mithapukur, Rangpur, Bangladesh
               </h2>
               <a
                 href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
