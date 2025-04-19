@@ -109,11 +109,11 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://linkedin.com/in/gilberthutapea"
+              href="Sihab"
               className="text-primary hover:underline"
               target="blank"
             >
-              Gilbert Hutapea
+              Sihab
             </a>
           </p>
         </div>
