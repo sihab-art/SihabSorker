@@ -52,7 +52,7 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Gilbert Hutapea</h1>
+            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Sihab Sorker</h1>
             <div className="my-8">
               <TypeAnimation
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
