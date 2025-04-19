@@ -36,8 +36,8 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
-              alt="Gilbert Hutapea"
+              src="https://i.postimg.cc/90jS8w2n/IMG-20250226-154759-563-Photoroom-1.png"
+              alt="Sihab"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Gilbert Hutapea"
             />
