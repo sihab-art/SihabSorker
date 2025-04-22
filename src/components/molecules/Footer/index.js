@@ -109,7 +109,7 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="Sihab"
+              href="https://www.linkedin.com/in/sihab-sorker-5a22b0311/"
               className="text-primary hover:underline"
               target="blank"
             >
