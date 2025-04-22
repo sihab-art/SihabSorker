@@ -180,7 +180,7 @@ const Contact = () => {
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
-              <FaXSquare></FaXSquare>
+              <FaTwitterSquare></FaTwitterSquare>
             </a>
             <a
               href="https://www.instagram.com/sihabsorker0/"
