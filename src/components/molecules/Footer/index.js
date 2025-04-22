@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="flex items-center justify-center mb-6">
           <a
             className="inline-block mx-2"
-            href=""
+            href="https://x.com/sihabsorker0"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://x.com/sihabsorker0"
+            href="https://www.linkedin.com/in/sihab-sorker-5a22b0311/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +29,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.linkedin.com/in/sihab-sorker-5a22b0311/"
+            href="https://github.com/sihabsorker0"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,7 +37,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://github.com/sihabsorker0"
+            href="https://www.instagram.com/sihabsorker0/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.instagram.com/sihabsorker0/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
