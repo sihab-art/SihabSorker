@@ -84,7 +84,7 @@ const Contact = () => {
           variants={contactAnimation}
         >
           <h2 className="text-2xl font-medium">Contact Me</h2>
-          <form ref={form} onSubmit={handleSend}>
+          <form  action="https://formspree.io/f/xgvkeezl" method="POST">
             <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-6">
               <input
                 className="input-field"
