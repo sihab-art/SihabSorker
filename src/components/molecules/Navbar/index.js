@@ -83,7 +83,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+              href="https://drive.usercontent.google.com/download?id=1TZ2SRznpWKQxn84flctBRmlHuC1bI43D&export=download&authuser=0&confirm=t&uuid=3997ba42-91ec-4bc6-b388-25ee634008fb&at=APcmpoxHE9XXw-2_i5RRhl1D5MFp:1745318208867"
               target="blank"
             >
               <PrimaryBtn>
